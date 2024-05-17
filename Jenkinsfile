@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = 'credentials-id-wd' // The ID you provided in Jenkins credentials
+        GCR_CREDENTIALS_ID = 'credential-id-wd' // The ID you provided in Jenkins credentials
 
         IMAGE_NAME = '276e0d682d19'
 
