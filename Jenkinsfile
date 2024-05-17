@@ -6,7 +6,7 @@ pipeline {
 
         GCR_CREDENTIALS_ID = 'credential-id-wd' // The ID you provided in Jenkins credentials
 
-        IMAGE_NAME = '276e0d682d19'
+        IMAGE_NAME = 'test-build-1'
 
         GCR_URL = 'gcr.io/lbg-mea-18/test-image-wd'
 
